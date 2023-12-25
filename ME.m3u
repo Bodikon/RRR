@@ -104,6 +104,16 @@ http://94.232.104.237:8000/play/030/index.m3u8
 http://94.232.104.237:8000/play/031/index.m3u8
 #EXTINF:-1,CN
 http://94.232.104.237:8000/play/032/index.m3u8
+#EXTINF:-1 tvg-logo="https://707.su/qdc",TV Comedy
+https://707.su/zGr
+#EXTINF:-1 tvg-logo="https://707.su/dmb",TV Detektiv
+https://707.su/EcJ
+#EXTINF:-1 tvg-logo="https://707.su/O9N",TV Drama
+https://707.su/d2P
+#EXTINF:-1 tvg-logo="https://707.su/OHr",TV Melodrama
+https://707.su/ktj
+#EXTINF:-1 tvg-logo="https://707.su/rUb",TV Triller
+https://707.su/yvr
 #EXTINF:-1,МАМА
 http://94.232.104.237:8000/play/033/index.m3u8
 #EXTINF:-1,ДЕТСКИЙ МИР
