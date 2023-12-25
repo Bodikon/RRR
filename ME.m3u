@@ -1,6 +1,8 @@
 
 #EXTM3U
-#EXTINF:-1,Мособр TV HD
+#EXTINF:-1 ,Univer учёба TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,Мособр TV учёба HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1, Остр. HD 
 https://707.su/LYR
