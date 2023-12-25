@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1,НТВ-Хит
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1,START WORLD
 https://707.su/j0C
 #EXTINF:-1,Киноужас
