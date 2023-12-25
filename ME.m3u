@@ -1,19 +1,21 @@
 
 #EXTM3U
+#EXTINF:-1, Остр. HD 
+https://707.su/LYR
 #EXTINF:-1 tvg-id="backustv-horror", BackusTV Dark HD 
-http://stream.backustv.ru/live/btv2/index.m3u8
+https://707.su/43p
 #EXTINF:-1 tvg-id="backustv", BackusTV HD 
-http://stream.backustv.ru/live/btv/index.m3u8
+https://707.su/xLk
 #EXTINF:-1,НТВ-Хит
-http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+https://707.su/XoE
 #EXTINF:-1,START WORLD
 https://707.su/j0C
 #EXTINF:-1,Киноужас
-https://tbs01-edge17.itdc.ge/kinoujas/index.m3u8
+https://707.su/1Zl
 #EXTINF:-1,Plan B
-http://31.148.6.4:10236/index.m3u8
+https://707.su/CRt
 #EXTINF:-1,FAMILY
-https://tbs01-edge17.itdc.ge/tv5/index.m3u8
+https://707.su/apN
 #EXTINF:-1,Nauka
 http://149.5.17.34:20041/play/a06l
 #EXTINF:-1,АТВ HD
@@ -21,7 +23,7 @@ https://707.su/iYD
 #EXTINF:-1,НК 
 rtmp://93.189.60.202//935
 #EXTINF:-1,FilmZone
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+https://707.su/1hx
 #EXTINF:-1,Sci-Fi
 https://tbs01-edge17.itdc.ge/scifi/index.m3u8
 #EXTINF:-1,MTV 00s R
@@ -51,7 +53,7 @@ http://94.232.104.237:8000/play/006/index.m3u8
 #EXTINF:-1,Россия 24 Кузбасс
 http://94.232.104.237:8000/play/007/index.m3u8
 #EXTINF:-1,UWN
-https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
+https://707.su/SSZ
 #EXTINF:-1,Карусель
 http://94.232.104.237:8000/play/008/index.m3u8
 #EXTINF:-1,ОТР
