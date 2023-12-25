@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1,VIP FAMILY
+https://tbs01-edge17.itdc.ge/tv5/index.m3u8
 #EXTINF:-1,Nauka
 http://149.5.17.34:20041/play/a06l
 #EXTINF:-1,АТВ HD
