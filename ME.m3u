@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1 ,SCI-FI
+https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
 #EXTINF:-1,MTV 00s R
 http://89.254.128.5:22280/mtv_00/video.m3u8
 #EXTINF:-1,MTV 90s
