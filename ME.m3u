@@ -44,6 +44,8 @@ http://94.232.104.237:8000/play/005/index.m3u8
 http://94.232.104.237:8000/play/006/index.m3u8
 #EXTINF:-1,Россия 24 Кузбасс
 http://94.232.104.237:8000/play/007/index.m3u8
+#EXTINF:-1,UWN
+https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 #EXTINF:-1,Карусель
 http://94.232.104.237:8000/play/008/index.m3u8
 #EXTINF:-1,ОТР
