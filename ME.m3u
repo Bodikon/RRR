@@ -1,0 +1,216 @@
+
+#EXTM3U
+#EXTINF:-1,MTV 00s R
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1,MTV 90s
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1,MTV Classic 
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1,MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1,312 Музыка
+http://moobl.ru/hls/312_music.m3u8
+#EXTINF:-1,Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1,ОРТ
+http://94.232.104.237:8000/play/001/index.m3u8
+#EXTINF:-1,Россия 1
+http://94.232.104.237:8000/play/002/index.m3u8
+#EXTINF:-1,Матч
+http://94.232.104.237:8000/play/003/index.m3u8
+#EXTINF:-1,НТВ
+http://94.232.104.237:8000/play/004/index.m3u8
+#EXTINF:-1,5-Канал
+http://94.232.104.237:8000/play/005/index.m3u8
+#EXTINF:-1,Россия к
+http://94.232.104.237:8000/play/006/index.m3u8
+#EXTINF:-1,Россия 24 Кузбасс
+http://94.232.104.237:8000/play/007/index.m3u8
+#EXTINF:-1,Карусель
+http://94.232.104.237:8000/play/008/index.m3u8
+#EXTINF:-1,ОТР
+http://94.232.104.237:8000/play/009/index.m3u8
+#EXTINF:-1,ТВЦ
+http://94.232.104.237:8000/play/010/index.m3u8
+#EXTINF:-1,хРЕНь TV
+http://94.232.104.237:8000/play/011/index.m3u8
+#EXTINF:-1,Спас
+http://94.232.104.237:8000/play/012/index.m3u8
+#EXTINF:-1,СТС
+http://94.232.104.237:8000/play/013/index.m3u8
+#EXTINF:-1,D женский
+http://94.232.104.237:8000/play/014/index.m3u8
+#EXTINF:-1,ТВ3
+http://94.232.104.237:8000/play/015/index.m3u8
+#EXTINF:-1,Пятница
+http://94.232.104.237:8000/play/016/index.m3u8
+#EXTINF:-1,Звезда
+http://94.232.104.237:8000/play/017/index.m3u8
+#EXTINF:-1,Мир
+http://94.232.104.237:8000/play/018/index.m3u8
+#EXTINF:-1,ТНТ
+http://94.232.104.237:8000/play/019/index.m3u8
+#EXTINF:-1,МУЗ ТВ
+http://94.232.104.237:8000/play/020/index.m3u8
+#EXTINF:-1,Кузбасс первый
+http://94.232.104.237:8000/play/021/index.m3u8
+#EXTINF:-1,10
+http://94.232.104.237:8000/play/022/index.m3u8
+#EXTINF:-1,Комедия
+http://94.232.104.237:8000/play/023/index.m3u8
+#EXTINF:-1,Осин
+http://94.232.104.237:8000/play/024/index.m3u8
+#EXTINF:-1,ТНТ4
+http://94.232.104.237:8000/play/025/index.m3u8
+#EXTINF:-1,JWL
+http://94.232.104.237:8000/play/026/index.m3u8
+#EXTINF:-1,ТВ
+http://94.232.104.237:8000/play/027/index.m3u8
+#EXTINF:-1,Солнце
+http://94.232.104.237:8000/play/028/index.m3u8
+#EXTINF:-1,Православный
+http://94.232.104.237:8000/play/029/index.m3u8
+#EXTINF:-1,МУЛЬТЛАНДИЯ
+http://94.232.104.237:8000/play/030/index.m3u8
+#EXTINF:-1,УНИКУМ
+http://94.232.104.237:8000/play/031/index.m3u8
+#EXTINF:-1,CN
+http://94.232.104.237:8000/play/032/index.m3u8
+#EXTINF:-1,МАМА
+http://94.232.104.237:8000/play/033/index.m3u8
+#EXTINF:-1,ДЕТСКИЙ МИР
+http://94.232.104.237:8000/play/034/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://94.232.104.237:8000/play/035/index.m3u8
+#EXTINF:-1,8
+http://94.232.104.237:8000/play/036/index.m3u8
+#EXTINF:-1,НСТ
+http://94.232.104.237:8000/play/037/index.m3u8
+#EXTINF:-1,============38
+http://94.232.104.237:8000/play/038/index.m3u8
+#EXTINF:-1,VIJU TV 1000
+http://94.232.104.237:8000/play/039/index.m3u8
+#EXTINF:-1,VIJU TV 1000 ACTION
+http://94.232.104.237:8000/play/040/index.m3u8
+#EXTINF:-1,1VIJU TV 1000 РУССКОЕ
+http://94.232.104.237:8000/play/041/index.m3u8
+#EXTINF:-1,==============42
+http://94.232.104.237:8000/play/042/index.m3u8
+#EXTINF:-1,Русский детектив
+http://94.232.104.237:8000/play/043/index.m3u8
+#EXTINF:-1,БОБЕР
+http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1,ЗЖ
+http://94.232.104.237:8000/play/045/index.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://94.232.104.237:8000/play/046/index.m3u8
+#EXTINF:-1,К
+http://94.232.104.237:8000/play/047/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://94.232.104.237:8000/play/048/index.m3u8
+#EXTINF:-1,===============49
+http://94.232.104.237:8000/play/049/index.m3u8
+#EXTINF:-1,ТВ 21
+http://94.232.104.237:8000/play/050/index.m3u8
+#EXTINF:-1,СТС Love
+http://94.232.104.237:8000/play/058/index.m3u8
+#EXTINF:-1,Матч Страна
+http://94.232.104.237:8000/play/059/index.m3u8
+#EXTINF:-1,Спорт
+http://94.232.104.237:8000/play/062/index.m3u8
+#EXTINF:-1,Спорт
+http://94.232.104.237:8000/play/063/index.m3u8
+#EXTINF:-1,REX HD
+http://94.232.104.237:8000/play/064/index.m3u8
+#EXTINF:-1,KHL Live
+http://94.232.104.237:8000/play/065/index.m3u8
+#EXTINF:-1,RU TV
+http://94.232.104.237:8000/play/070/index.m3u8
+#EXTINF:-1,Моф планета
+http://94.232.104.237:8000/play/072/index.m3u8
+#EXTINF:-1,Н
+http://94.232.104.237:8000/play/073/index.m3u8
+#EXTINF:-1,История
+http://94.232.104.237:8000/play/074/index.m3u8
+#EXTINF:-1,Дорама
+http://94.232.104.237:8000/play/075/index.m3u8
+#EXTINF:-1,viju+premiere
+http://94.232.104.237:8000/play/076/index.m3u8
+#EXTINF:-1,Explore
+http://94.232.104.237:8000/play/077/index.m3u8
+#EXTINF:-1,History
+http://94.232.104.237:8000/play/078/index.m3u8
+#EXTINF:-1,Nature
+http://94.232.104.237:8000/play/079/index.m3u8
+#EXTINF:-1,Телепутешествия
+http://94.232.104.237:8000/play/080/index.m3u8
+#EXTINF:-1,Galaxy
+http://94.232.104.237:8000/play/083/index.m3u8
+#EXTINF:-1,RTG TV
+http://94.232.104.237:8000/play/085/index.m3u8
+#EXTINF:-1,Zoo парк
+http://94.232.104.237:8000/play/086/index.m3u8
+#EXTINF:-1,АВТО
+http://94.232.104.237:8000/play/087/index.m3u8
+#EXTINF:-1,Оружие
+http://94.232.104.237:8000/play/091/index.m3u8
+#EXTINF:-1,РБК
+http://94.232.104.237:8000/play/092/index.m3u8
+#EXTINF:-1,Супер герои
+http://94.232.104.237:8000/play/093/index.m3u8
+#EXTINF:-1,Кухня
+http://94.232.104.237:8000/play/094/index.m3u8
+#EXTINF:-1,Жара TV
+http://94.232.104.237:8000/play/095/index.m3u8
+#EXTINF:-1,Индия
+http://94.232.104.237:8000/play/097/index.m3u8
+#EXTINF:-1,WFC.TV
+http://94.232.104.237:8000/play/098/index.m3u8
+#EXTINF:-1,Первый HD
+http://94.232.104.237:8000/play/099/index.m3u8
+#EXTINF:-1,Музыка первого
+http://94.232.104.237:8000/play/101/index.m3u8
+#EXTINF:-1,MTV 90s
+http://94.232.104.237:8000/play/102/index.m3u8
+#EXTINF:-1,Смайлики ТВ
+http://94.232.104.237:8000/play/103/index.m3u8
+#EXTINF:-1,Б
+http://94.232.104.237:8000/play/104/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://94.232.104.237:8000/play/105/index.m3u8
+#EXTINF:-1,black
+http://94.232.104.237:8000/play/106/index.m3u8
+#EXTINF:-1,Top Secret
+http://94.232.104.237:8000/play/107/index.m3u8
+#EXTINF:-1,Матч
+http://94.232.104.237:8000/play/108/index.m3u8
+#EXTINF:-1,ID
+http://94.232.104.237:8000/play/109/index.m3u8
+#EXTINF:-1,Bridge
+http://94.232.104.237:8000/play/110/index.m3u8
+#EXTINF:-1,ОТВ
+http://94.232.104.237:8000/play/111/index.m3u8
+#EXTINF:-1,Dizi
+http://94.232.104.237:8000/play/112/index.m3u8
+#EXTINF:-1,365
+http://94.232.104.237:8000/play/113/index.m3u8
+#EXTINF:-1,Союз
+http://94.232.104.237:8000/play/115/index.m3u8
+#EXTINF:-1,ТНВ
+http://94.232.104.237:8000/play/116/index.m3u8
+#EXTINF:-1,Ностальгия
+http://94.232.104.237:8000/play/117/index.m3u8
+#EXTINF:-1,Bridge classic
+http://94.232.104.237:8000/play/119/index.m3u8
+#EXTINF:-1,ТНТ music
+http://94.232.104.237:8000/play/120/index.m3u8
+#EXTINF:-1,Усадьба
+http://94.232.104.237:8000/play/121/index.m3u8
+#EXTINF:-1,Хокейный
+http://94.232.104.237:8000/play/122/index.m3u8
+#EXTINF:-1,ani
+http://94.232.104.237:8000/play/123/index.m3u8
+#EXTINF:-1,Живая планета
+http://94.232.104.237:8000/play/124/index.m3u8
+
+
