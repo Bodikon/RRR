@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1,Nauka
+http://149.5.17.34:20041/play/a06l
 #EXTINF:-1,АТВ HD
 https://707.su/iYD
 #EXTINF:-1,НК 
