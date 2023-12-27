@@ -1,266 +1,183 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="baby-time" group-title="Детские",Baby Time
-https://707.su/InA
-#EXTINF:-1 tvg-id="ducktv" group-title="Детские",Duck TV HD
-https://707.su/Wdh
-#EXTINF:-1 tvg-id="gulli-girl" group-title="Детские",Gulli Girl
-https://707.su/YOK
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Детские",В гостях у сказки
-https://707.su/Slo
-#EXTINF:-1 tvg-id="ginger-hd" group-title="Детские",Капитан Фантастика
-https://707.su/m5Q
-#EXTINF:-1 tvg-id="karusel" group-title="Детские",Карусель
-https://707.su/huF
-#EXTINF:-1 tvg-id="liova" group-title="Детские",Лёва HD
-https://707.su/CcP
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Детские",Мамонтёнок
-https://707.su/DX6
-#EXTINF:-1 tvg-id="mult" group-title="Детские",Мульт HD
-https://707.su/eX6
-#EXTINF:-1 tvg-id="multimuzyka" group-title="Детские",Мульт и музыка
-https://707.su/XKH
-#EXTINF:-1 tvg-id="multimania" group-title="Детские",Мультиландия HD
-https://707.su/Clj
-#EXTINF:-1 tvg-id="multimania-lv" group-title="Детские",Мультимания
-https://707.su/W6Y
-#EXTINF:-1 tvg-id="pingvin-lolo" group-title="Детские",Пингвин Лоло
-https://707.su/Ir8
-#EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
-https://707.su/Izy
-#EXTINF:-1 tvg-id="solnce" group-title="Детские",Солнце
-https://707.su/B63
-#EXTINF:-1 tvg-id="malysh" group-title="Детские",СуперГерои
-rtmp://93.189.60.202//1041
-#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино",Cinema UHD
-https://707.su/es4
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино",Cinema HD
-https://707.su/1OX
-#EXTINF:-1 tvg-id="epik-drama" group-title="Кино",Epic Drama HD
-rtmp://93.189.60.202//1048
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино",FilmBox
-rtmp://93.189.60.202//1071
-#EXTINF:-1 tvg-id="hollywood-hd" group-title="Кино",Hollywood HD
-https://707.su/aur
-#EXTINF:-1 tvg-id="plan-b" group-title="Кино",Plan_B
-https://707.su/CkZ
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Film UADrama Европа
-https://707.su/BKt
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Star Cinema HD
-https://707.su/HLl
-#EXTINF:-1 tvg-id="timeless-dizi" group-title="Кино",Timeless Dizi Channel
-https://707.su/iAF
-#EXTINF:-1 tvg-id="tvxxi" group-title="Кино",TV 21
-https://707.su/NCV
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино",Bollywood HD
-https://707.su/u3E
-#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино",Индийское кино
-https://707.su/SXf
-#EXTINF:-1 tvg-id="zee-tv" group-title="Кино",Индия
-rtmp://93.189.60.202//1001
-#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Кино",Комедия
-https://707.su/3Ks
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Киноман
-https://707.su/Xqv
-#EXTINF:-1 tvg-id="kinomiks" group-title="Кино",Киномикс
-https://707.su/zr5
-#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино",Киноужас
-https://707.su/szm
-#EXTINF:-1 tvg-id="kinoxit" group-title="Кино",Кинохит
-https://707.su/c4J
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Кино",НТВ Сериал
-https://707.su/Zga
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Кино",НТВ Хит
-https://707.su/11m
-#EXTINF:-1 tvg-id="krasnaya-linia" group-title="Кино",Красная линия
-https://707.su/CPB
-#EXTINF:-1, Кино ТВ
-http://91.142.158.107:8092/play/28/index.m3u8
-#EXTINF:-1, Киносат
-https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ultra-hd-cinema", Ultra HD Cinema 
+#EXTINF:-1 group-title="Кино", Кино ТВ
+https://707.su/NAw
+#EXTINF:-1 group-title="Кино", Киносат
+https://707.su/UTp
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ultra-hd-cinema"group-title="Кино", Ultra HD Cinema 
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1 tvg-id="trashtv",Trash_HD 
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 ,Мособр TV HD
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 ,Univer TV HD
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 ,Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 ,Первый Музыкальный BY [FHD]
+https://707.su/Wel
+#EXTINF:-1 tvg-id="trashtv"group-title="Кино",Trash_HD 
+https://707.su/HiO
+#EXTINF:-1 group-title="Наука", Мособр TV HD
+https://707.su/SXY
+#EXTINF:-1 group-title="Наука", Univer TV HD
+https://707.su/d1W
+#EXTINF:-1 group-title="Наука",Univer TV HD
+https://707.su/krC
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
-#EXTINF:-1 ,Первый Музыкальный RU HD BY
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
-#EXTINF:-1 ,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 ,Kronehit TV [FHD]
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 ,12 Канал HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 ,360 Новости HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 ,43 канал HD
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 ,Ростов-папа HD
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 ,Приключения HD
-http://80.89.196.34:8085/travel/index.m3u8
-#EXTINF:-1 ,Вот ТВ HD
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF:-1 ,WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 ,Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 ,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 ,Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 ,Brics TV HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1, Остр. HD 
+#EXTINF:-1 group-title="Новости",Известия ТВ HD
+https://707.su/EB8
+#EXTINF:-1 group-title="Кино",Kronehit TV HD
+https://707.su/f4j
+#EXTINF:-1 group-title="Кино",Kronehit TV [FHD]
+https://707.su/zkB
+#EXTINF:-1 group-title="Общий",12 Канал HD
+https://707.su/ly4
+#EXTINF:-1 group-title="Новости",360 Новости HD
+https://707.su/a0L
+#EXTINF:-1 group-title="Кино",43 канал HD
+https://707.su/Uh8
+#EXTINF:-1 group-title="Общий",Ростов-папа HD
+https://707.su/lqc
+#EXTINF:-1 group-title="Кино",Приключения HD
+https://707.su/2h1
+#EXTINF:-1 group-title="Общий",Вот ТВ HD
+https://707.su/bzR
+#EXTINF:-1 group-title="Заставка",WORLD HD
+https://707.su/Rpi
+#EXTINF:-1 group-title="Кино",СТРК HD
+https://707.su/riq
+#EXTINF:-1 group-title="Кино",Kronehit HD
+https://707.su/3SI
+#EXTINF:-1 group-title="Общий",НТМ HD
+https://707.su/tru
+#EXTINF:-1 group-title="Природа",Sochi Live HD
+https://707.su/Nae
+#EXTINF:-1 group-title="Общий",Brics TV HD
+https://707.su/GsZ
+#EXTINF:-1 group-title="Кино", Остр. HD 
 https://707.su/LYR
-#EXTINF:-1 tvg-id="backustv-horror", BackusTV Dark HD 
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Кино", BackusTV Dark HD 
 https://707.su/43p
-#EXTINF:-1 tvg-id="backustv", BackusTV HD 
+#EXTINF:-1 tvg-id="backustv"group-title="Кино", BackusTV HD 
 https://707.su/xLk
-#EXTINF:-1,НТВ-Хит
+#EXTINF:-1 group-title="Кино",НТВ-Хит
 https://707.su/XoE
-#EXTINF:-1,START WORLD
+#EXTINF:-1 group-title="Кино",START WORLD
 https://707.su/j0C
-#EXTINF:-1,Киноужас
+#EXTINF:-1 group-title="Кино",Киноужас
 https://707.su/1Zl
-#EXTINF:-1,Plan B
+#EXTINF:-1 group-title="Кино", Plan B
 https://707.su/CRt
-#EXTINF:-1,FAMILY
-https://707.su/apN
-#EXTINF:-1,Nauka
-http://149.5.17.34:20041/play/a06l
-#EXTINF:-1,АТВ HD
+#EXTINF:-1 group-title="Наука", Nauka
+https://707.su/Pva
+#EXTINF:-1 group-title="Военные", АТВ HD ua
 https://707.su/vYM
-#EXTINF:-1,НК 
+#EXTINF:-1 group-title="Общий", НК 
 rtmp://93.189.60.202//935
-#EXTINF:-1,FilmZone
+#EXTINF:-1 group-title="Кино", FilmZone
 https://707.su/1hx
-#EXTINF:-1,Sci-Fi
-https://tbs01-edge17.itdc.ge/scifi/index.m3u8
-#EXTINF:-1,MTV 00s R
-http://89.254.128.5:22280/mtv_00/video.m3u8
-#EXTINF:-1,MTV 90s
-https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
-#EXTINF:-1,MTV Classic 
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
-#EXTINF:-1,MTV Hits
-https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
-#EXTINF:-1,312 Музыка
-http://moobl.ru/hls/312_music.m3u8
-#EXTINF:-1,Фантастика HD
-http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1,ОРТ
-http://94.232.104.237:8000/play/001/index.m3u8
-#EXTINF:-1,Россия 1
-http://94.232.104.237:8000/play/002/index.m3u8
-#EXTINF:-1,Матч
-http://94.232.104.237:8000/play/003/index.m3u8
-#EXTINF:-1,НТВ
-http://94.232.104.237:8000/play/004/index.m3u8
-#EXTINF:-1,5-Канал
-http://94.232.104.237:8000/play/005/index.m3u8
-#EXTINF:-1,Россия к
-http://94.232.104.237:8000/play/006/index.m3u8
-#EXTINF:-1,Россия 24 Кузбасс
-http://94.232.104.237:8000/play/007/index.m3u8
-#EXTINF:-1,UWN
+#EXTINF:-1 group-title="Кино", Sci-Fi
+https://707.su/EiJ
+#EXTINF:-1 group-title="Музыка", MTV 00s R
+https://707.su/swP
+#EXTINF:-1 group-title="Музыка", MTV 90s
+https://707.su/6b5
+#EXTINF:-1 group-title="Музыка", MTV Classic 
+https://707.su/sMb
+#EXTINF:-1 group-title="Музыка", MTV Hits
+https://707.su/PWF
+#EXTINF:-1 group-title="Музыка", 312 Музыка
+https://707.su/mmV
+#EXTINF:-1 group-title="Кино", Фантастика HD
+https://707.su/1eQ
+#EXTINF:-1 group-title="Общий", ОРТ
+https://707.su/LG9
+#EXTINF:-1 group-title="Общий", Россия 1
+https://707.su/v5R
+#EXTINF:-1 group-title="Спорт", Матч
+https://707.su/n0E
+#EXTINF:-1 group-title="Общий", НТВ
+https://707.su/eG2 
+#EXTINF:-1 group-title="Общий", 5-Канал
+https://707.su/kOc
+#EXTINF:-1 group-title="Общий", Россия Кульура
+https://707.su/N04
+#EXTINF:-1 group-title="Новости", Россия 24 Кузбасс
+https://707.su/hg7
+#EXTINF:-1 group-title="Новости", UWN ua
 https://707.su/SSZ
-#EXTINF:-1,Карусель
-http://94.232.104.237:8000/play/008/index.m3u8
-#EXTINF:-1,ОТР
-http://94.232.104.237:8000/play/009/index.m3u8
-#EXTINF:-1,ТВЦ
-http://94.232.104.237:8000/play/010/index.m3u8
-#EXTINF:-1,хРЕНь TV
-http://94.232.104.237:8000/play/011/index.m3u8
-#EXTINF:-1,Спас
-http://94.232.104.237:8000/play/012/index.m3u8
-#EXTINF:-1,СТС
-http://94.232.104.237:8000/play/013/index.m3u8
-#EXTINF:-1,D женский
-http://94.232.104.237:8000/play/014/index.m3u8
-#EXTINF:-1,ТВ3
-http://94.232.104.237:8000/play/015/index.m3u8
-#EXTINF:-1,Пятница
-http://94.232.104.237:8000/play/016/index.m3u8
-#EXTINF:-1,Звезда
-http://94.232.104.237:8000/play/017/index.m3u8
-#EXTINF:-1,Мир
-http://94.232.104.237:8000/play/018/index.m3u8
-#EXTINF:-1,ТНТ
-http://94.232.104.237:8000/play/019/index.m3u8
-#EXTINF:-1,МУЗ ТВ
-http://94.232.104.237:8000/play/020/index.m3u8
-#EXTINF:-1,Кузбасс первый
-http://94.232.104.237:8000/play/021/index.m3u8
-#EXTINF:-1,10
-http://94.232.104.237:8000/play/022/index.m3u8
-#EXTINF:-1,Комедия
-http://94.232.104.237:8000/play/023/index.m3u8
-#EXTINF:-1,Осин
-http://94.232.104.237:8000/play/024/index.m3u8
-#EXTINF:-1,ТНТ4
-http://94.232.104.237:8000/play/025/index.m3u8
-#EXTINF:-1,JWL
-http://94.232.104.237:8000/play/026/index.m3u8
-#EXTINF:-1,ТВ
-http://94.232.104.237:8000/play/027/index.m3u8
-#EXTINF:-1,Солнце
-http://94.232.104.237:8000/play/028/index.m3u8
-#EXTINF:-1,Православный
-http://94.232.104.237:8000/play/029/index.m3u8
-#EXTINF:-1,МУЛЬТЛАНДИЯ
-http://94.232.104.237:8000/play/030/index.m3u8
-#EXTINF:-1,УНИКУМ
-http://94.232.104.237:8000/play/031/index.m3u8
-#EXTINF:-1,CN
-http://94.232.104.237:8000/play/032/index.m3u8
-#EXTINF:-1 tvg-logo="https://707.su/qdc",TV Comedy
+#EXTINF:-1 group-title="Детский", Карусель
+https://707.su/DPt 
+#EXTINF:-1 group-title="Общий", ОТР
+https://707.su/yhy
+#EXTINF:-1 group-title="Общий", ТВЦ
+https://707.su/jAA
+#EXTINF:-1 group-title="Общий", хРЕНь) TV
+https://707.su/b2A
+#EXTINF:-1 group-title="Религия", Спас
+https://707.su/Igd
+#EXTINF:-1 group-title="Развлекательный", СТС
+https://707.su/M8z
+#EXTINF:-1 group-title="Женский", D женский
+https://707.su/S8G
+#EXTINF:-1 group-title="Кино", ТВ3
+https://707.su/2Q5
+#EXTINF:-1 group-title="Общий", Пятница
+https://707.su/dW9
+#EXTINF:-1 group-title="Военные", Звезда
+https://707.su/GnD
+#EXTINF:-1 group-title="Общий", Мир
+https://707.su/3cs 
+#EXTINF:-1 group-title="Развлекательный",ТНТ
+https://707.su/XwQ
+#EXTINF:-1 group-title="Музыка", МУЗ ТВ
+https://707.su/b8B
+#EXTINF:-1 group-title="Общий",Кузбасс первый
+https://707.su/1rK
+#EXTINF:-1 #EXTINF:-1 group-title="Общий", 10
+https://707.su/URL
+#EXTINF:-1 group-title="Кино", Комедия
+https://707.su/72W
+#EXTINF:-1 group-title="Общий", Осин
+https://707.su/p8w
+#EXTINF:-1 group-title="Развлекательный", ТНТ4
+https://707.su/NKT
+#EXTINF:-1 group-title="Музыка",ТВ
+https://707.su/TNW
+#EXTINF:-1 group-title="Детский",Солнце
+https://707.su/6RC
+#EXTINF:-1 group-title="Религия", Православный
+https://707.su/mPG
+#EXTINF:-1 group-title="Детский", МУЛЬТЛАНДИЯ
+https://707.su/udL
+#EXTINF:-1 group-title="Детский", УНИКУМ
+https://707.su/j89
+#EXTINF:-1 group-title="Детский", CN
+https://707.su/Srg
+#EXTINF:-1 tvg-logo="https://707.su/qdc" group-title="Кино", TV Comedy
 https://707.su/zGr
-#EXTINF:-1 tvg-logo="https://707.su/dmb",TV Detektiv
+#EXTINF:-1 tvg-logo="https://707.su/dmb" group-title="Кино", TV Detektiv
 https://707.su/EcJ
-#EXTINF:-1 tvg-logo="https://707.su/O9N",TV Drama
+#EXTINF:-1 tvg-logo="https://707.su/O9N" group-title="Кино", TV Drama
 https://707.su/d2P
-#EXTINF:-1 tvg-logo="https://707.su/OHr",TV Melodrama
+#EXTINF:-1 tvg-logo="https://707.su/OHr" group-title="Кино", TV Melodrama
 https://707.su/ktj
-#EXTINF:-1 tvg-logo="https://707.su/rUb",TV Triller
+#EXTINF:-1 tvg-logo="https://707.su/rUb" group-title="Кино", TV Triller
 https://707.su/yvr
-#EXTINF:-1,МАМА
-http://94.232.104.237:8000/play/033/index.m3u8
-#EXTINF:-1,ДЕТСКИЙ МИР
-http://94.232.104.237:8000/play/034/index.m3u8
-#EXTINF:-1,КИНО ТВ
-http://94.232.104.237:8000/play/035/index.m3u8
-#EXTINF:-1,8
-http://94.232.104.237:8000/play/036/index.m3u8
-#EXTINF:-1,НСТ
-http://94.232.104.237:8000/play/037/index.m3u8
-#EXTINF:-1,============38
-http://94.232.104.237:8000/play/038/index.m3u8
-#EXTINF:-1,VIJU TV 1000
-http://94.232.104.237:8000/play/039/index.m3u8
-#EXTINF:-1,VIJU TV 1000 ACTION
-http://94.232.104.237:8000/play/040/index.m3u8
-#EXTINF:-1,1VIJU TV 1000 РУССКОЕ
-http://94.232.104.237:8000/play/041/index.m3u8
-#EXTINF:-1,==============42
-http://94.232.104.237:8000/play/042/index.m3u8
-#EXTINF:-1,Русский детектив
-http://94.232.104.237:8000/play/043/index.m3u8
-#EXTINF:-1,БОБЕР
-http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1 group-title="Женский", МАМА
+https://707.su/TwM 
+#EXTINF:-1 group-title="Детский", ДЕТСКИЙ МИР
+https://707.su/S8B
+#EXTINF:-1 group-title="Кино", КИНО ТВ
+https://707.su/2YA
+#EXTINF:-1 group-title="Общий", 8 канал
+https://707.su/9jw
+#EXTINF:-1 group-title="Кино", НСТ
+https://707.su/yQJ
+#EXTINF:-1 group-title="Кино", VIJU TV 1000
+https://707.su/KZs
+#EXTINF:-1 group-title="Кино", VIJU TV 1000 ACTION
+https://707.su/rfn
+#EXTINF:-1 group-title="Кино", VIJU TV 1000 РУССКОЕ
+https://707.su/YG0
+#EXTINF:-1 group-title="Кино", Русский детектив
+https://707.su/onX
+#EXTINF:-1group-title="Развлекательный", БОБЕР
+https://707.su/woZ
 #EXTINF:-1,ЗЖ
 http://94.232.104.237:8000/play/045/index.m3u8
 #EXTINF:-1,ЕВРОКИНО
@@ -373,4 +290,3 @@ http://94.232.104.237:8000/play/122/index.m3u8
 http://94.232.104.237:8000/play/123/index.m3u8
 #EXTINF:-1,Живая планета
 http://94.232.104.237:8000/play/124/index.m3u8
-
