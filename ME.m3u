@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Кино", Кино ТВ
 https://707.su/NAw
-#EXTINF:-1 group-title="Кино", КИНО ТВ
+#EXTINF:-1 group-title="Кино", Кино ТВ
 https://707.su/2YA
 #EXTINF:-1 group-title="Кино", Киносат
 https://707.su/UTp
@@ -135,6 +135,24 @@ https://707.su/zr5
 https://707.su/szm
 #EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит
 https://707.su/c4J
+#EXTINF:-1 group-title="Кино", Fox  
+https://707.su/mwm
+#EXTINF:-1 group-title="Кино", Kino24
+https://707.su/XM5 
+#EXTINF:-1 group-title="Кино", 312 Кино
+https://707.su/fIO
+#EXTINF:-1 group-title="Кино", Дом кино Премиум HD
+https://707.su/Hoj
+#EXTINF:-1 group-title="Кино", Премиальное HD 
+https://707.su/uw0
+#EXTINF:-1 group-title="Кино", Кино 1 International
+https://707.su/fQl 
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал HD 
+https://707.su/08a
+#EXTINF:-1 group-title="Кино", Еврокино
+https://707.su/joK
+#EXTINF:-1 group-title="Кино" tvg-id="trashtv", Trash HD 
+https://707.su/PGm
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
@@ -168,6 +186,44 @@ https://707.su/qVS
 https://707.su/GlH
 #EXTINF:-1 group-title="Музыка", ТНТ music
 https://707.su/OcF
+#EXTINF:-1 group-title="Музыка", Bridge TV Classic
+https://707.su/V1I
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge TV Deluxe
+https://707.su/YXl
+#EXTINF:-1 group-title="Музыка", MTV 00's
+https://707.su/PYU
+#EXTINF:-1 group-title="Музыка", Trace Urban HD
+https://707.su/JA3
+#EXTINF:-1 group-title="Музыка", О2ТВ
+https://707.su/d2L
+#EXTINF:-1 group-title="Музыка", Телеканал Радио Страна ФМ
+https://707.su/mr5
+#EXTINF:-1 group-title="Музыка", BackusTV Music 
+https://707.su/yWP
+#EXTINF:-1 group-title="Музыка", Муз-ТВ +2
+https://707.su/wkb
+#EXTINF:-1 group-title="Музыка", Bridge TV Hits
+https://707.su/15A
+#EXTINF:-1 group-title="Музыкв", MCM Top
+https://707.su/W2q
+#EXTINF:-1 group-title="Музыка", MusicBox Gold 
+https://707.su/gmz
+#EXTINF:-1 group-title="Музыка", Kronehit
+https://707.su/hls
+#EXTINF:-1 group-title="Музыка", Bridge TV Rock
+https://707.su/zHa
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
+https://707.su/j9u
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
+https://707.su/jOA
+#EXTINF:-1 group-title="Музыка", RU.TV 
+https://707.su/rca
+#EXTINF:-1 group-title="Музыка", Russian MusicBox
+https://707.su/JhT
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
+https://707.su/73E
+#EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
+https://707.su/aTJ
 
 #EXTINF:-1 group-title="Познавательные", Усадьба
 https://707.su/074
@@ -199,6 +255,30 @@ https://707.su/oD2
 https://707.su/MMT
 #EXTINF:-1 group-title="Познавательные", ЗЖ
 https://707.su/ldD
+#EXTINF:-1 group-title="Познавательные", Investigation Discovery HD
+https://707.su/k8D
+#EXTINF:-1 group-title="Познавательные", H2 HD
+rtmp://93.189.60.202//1052
+#EXTINF:-1 group-title="Познавательные", TV Brics 
+https://707.su/EL8
+#EXTINF:-1 group-title="Познавательные", Большая Азия HD
+https://707.su/I6c
+#EXTINF:-1 group-title="Познавательные", DocuBox HD
+rtmp://93.189.60.202//968
+#EXTINF:-1 group-title="Познавательные", Первый космический
+https://707.su/UKq
+#EXTINF:-1 group-title="Познавательные", DTX HD
+https://707.su/WoV
+#EXTINF:-1 group-title="Познавательные", РЖД HD 
+https://707.su/pLG
+#EXTINF:-1 group-title="Познавательные", RTG HD
+https://707.su/vE0
+#EXTINF:-1 group-title="Познавательные", Открытый мир
+https://707.su/dtL
+#EXTINF:-1 group-title="Познавательные", НТВ Стиль
+https://707.su/BSc
+#EXTINF:-1 group-title="Познавательные" tvg-id="bobior", Бобëр
+https://707.su/iyB
 
 #EXTINF:-1 group-title="Наука", Мособр TV HD
 https://707.su/SXY
@@ -210,15 +290,27 @@ https://707.su/krC
 https://707.su/Pva
 #EXTINF:-1 group-title="Наука", Н
 https://707.su/S1B
+#EXTINF:-1 group-title="Наука", Наука 2.0 HD
+https://707.su/B9b
+#EXTINF:-1 group-title="Наука", ЕГЭ 
+https://707.su/QaQ
 
 #EXTINF:-1 group-title="Природа", Живая планета
 https://707.su/Vxt
-#EXTINF:-1 group-title="Природа", Zoo парк
+#EXTINF:-1 group-title="Природа", Zoopark
 https://707.su/1TO
 #EXTINF:-1 group-title="Природа", Моя планета
 https://707.su/W8Y
 #EXTINF:-1 group-title="Природа", Sochi Live HD
 https://707.su/Nae
+#EXTINF:-1 group-title="Природа", Big Planet
+https://707.su/7c5
+#EXTINF:-1 group-title="Природа", Animal Planet
+https://707.su/ORi
+#EXTINF:-1 group-title="Природа", Nat Geo Wild 
+https://707.su/HLs
+#EXTINF:-1 tvg-id="ocean-tv" group-title="Природа", Океан
+https://707.su/RBu
 
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 https://707.su/EB8
@@ -230,6 +322,11 @@ https://707.su/hg7
 https://707.su/SSZ
 #EXTINF:-1 group-title="Новости", РБК
 https://707.su/lcu
+#EXTINF:-1 group-title="Новости", РБК 
+https://707.su/Eq9
+#EXTINF:-1 group-title="Новости", Euronews
+https://707.su/LtX
+
 
 #EXTINF:-1 group-title="Общий", 12 Канал HD
 https://707.su/ly4
@@ -274,15 +371,27 @@ https://707.su/LG9
 #EXTINF:-1 group-title="Общий", Россия 1
 https://707.su/v5R
 
+
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
 #EXTINF:-1 group-title="Развлекательный", ТНТ4
 https://707.su/NKT
-#EXTINF:-1 group-title="Развлекательный",ТНТ
+#EXTINF:-1 group-title="Развлекательный", ТНТ
 https://707.su/XwQ
 #EXTINF:-1 group-title="Развлекательный", СТС
 https://707.su/M8z
-
+#EXTINF:-1 group-title="Развлекательные", 360 HD 
+https://707.su/lpl
+#EXTINF:-1 group-title="Развлекательные", Эхо TV 
+https://707.su/TO3
+#EXTINF:-1 group-title="Развлекательные", Ю 
+https://707.su/0Gj
+#EXTINF:-1 group-title="Развлекательные", Ратник 
+https://707.su/YDm
+#EXTINF:-1 group-title="Развлекательные", Родной канал HD 
+https://707.su/jhN 
+#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
+https://707.su/qH3
 
 #EXTINF:-1 group-title="Спорт", Матч
 https://707.su/n0E
@@ -300,6 +409,28 @@ https://707.su/vJE
 https://707.su/NKQ
 #EXTINF:-1 group-title="Спорт", Хокейный
 https://707.su/SU4
+#EXTINF:-1 group-title="Спорт", Танцуй!
+https://707.su/F24
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD 
+https://707.su/C1W
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD фут.
+https://707.su/fex
+#EXTINF:-1 group-title="Спорт", Удар
+https://707.su/krc
+#EXTINF:-1 group-title="Спорт", FightBox HD
+https://707.su/EDu
+#EXTINF:-1 group-title="Спорт", Матч! Боец
+https://707.su/AKj
+#EXTINF:-1 group-title="Спорт", Russian Extreme
+https://707.su/I0a
+#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
+rtmp://93.189.60.202//1018
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
+https://707.su/mif 
+#EXTINF:-1 group-title="Спорт", Диалоги о рыбалке
+https://707.su/N2N
+#EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
+https://707.su/zm7
 
 #EXTINF:-1 group-title="Религия", Союз
 https://707.su/zC1
@@ -358,6 +489,14 @@ https://707.su/Ir8
 https://707.su/Izy
 #EXTINF:-1 tvg-id="malysh" group-title="Детские",СуперГерои
 rtmp://93.189.60.202//1041
+#EXTINF:-1 group-title="Детские", Nicktoons
+https://707.su/PGm 
+#EXTINF:-1 group-title="Детскте", Кнопка ТВ 
+https://707.su/iFl
+#EXTINF:-1 group-title="Детские", ПлюсПлюс ua
+https://707.su/lOl
+#EXTINF:-1 group-title="Детские", Пiксель HD ua
+https://707.su/nhI
 
 #EXTINF:-1 group-title="Военные", АТВ HD ua
 https://707.su/vYM
@@ -375,6 +514,17 @@ https://707.su/S8G
 
 #EXTINF:-1 group-title="Заставка", WORLD HD
 https://707.su/Rpi
+#EXTINF:-1 group-title="Заставка", Наша сибирь
+https://707.su/rmF 
 
 #EXTINF:-1 group-title="Разное", ОТВ
 https://707.su/g7x
+
+#EXTINF:-1 group-title="Политические", Дума ТВ 
+https://707.su/fQc
+#EXTINF:-1 group-title="Политические", Красная линия 
+https://707.su/uzw
+
+#EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
+https://707.su/jsj
+
