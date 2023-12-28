@@ -178,56 +178,60 @@ https://707.su/YG0
 https://707.su/onX
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
-#EXTINF:-1,ЗЖ
-http://94.232.104.237:8000/play/045/index.m3u8
-#EXTINF:-1,ЕВРОКИНО
-http://94.232.104.237:8000/play/046/index.m3u8
-#EXTINF:-1,К
-http://94.232.104.237:8000/play/047/index.m3u8
-#EXTINF:-1,Русский иллюзион
-http://94.232.104.237:8000/play/048/index.m3u8
-#EXTINF:-1,===============49
-http://94.232.104.237:8000/play/049/index.m3u8
-#EXTINF:-1,ТВ 21
-http://94.232.104.237:8000/play/050/index.m3u8
-#EXTINF:-1,СТС Love
-http://94.232.104.237:8000/play/058/index.m3u8
-#EXTINF:-1,Матч Страна
-http://94.232.104.237:8000/play/059/index.m3u8
-#EXTINF:-1,Спорт
-http://94.232.104.237:8000/play/062/index.m3u8
-#EXTINF:-1,Спорт
-http://94.232.104.237:8000/play/063/index.m3u8
-#EXTINF:-1,REX HD
-http://94.232.104.237:8000/play/064/index.m3u8
-#EXTINF:-1,KHL Live
-http://94.232.104.237:8000/play/065/index.m3u8
-#EXTINF:-1,RU TV
-http://94.232.104.237:8000/play/070/index.m3u8
-#EXTINF:-1,Моф планета
-http://94.232.104.237:8000/play/072/index.m3u8
-#EXTINF:-1,Н
-http://94.232.104.237:8000/play/073/index.m3u8
-#EXTINF:-1,История
-http://94.232.104.237:8000/play/074/index.m3u8
-#EXTINF:-1,Дорама
-http://94.232.104.237:8000/play/075/index.m3u8
-#EXTINF:-1,viju+premiere
-http://94.232.104.237:8000/play/076/index.m3u8
-#EXTINF:-1,Explore
-http://94.232.104.237:8000/play/077/index.m3u8
-#EXTINF:-1,History
-http://94.232.104.237:8000/play/078/index.m3u8
-#EXTINF:-1,Nature
-http://94.232.104.237:8000/play/079/index.m3u8
-#EXTINF:-1,Телепутешествия
-http://94.232.104.237:8000/play/080/index.m3u8
-#EXTINF:-1,Galaxy
-http://94.232.104.237:8000/play/083/index.m3u8
-#EXTINF:-1,RTG TV
-http://94.232.104.237:8000/play/085/index.m3u8
-#EXTINF:-1,Zoo парк
-http://94.232.104.237:8000/play/086/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Познавательные", ЗЖ
+https://707.su/ldD
+#EXTINF:-1 group-title="Кино", ЕВРОКИНО
+https://707.su/51L
+#EXTINF:-1 group-title="Кино", К
+https://707.su/n7v
+#EXTINF:-1 group-title="Кино", Русский иллюзион
+https://707.su/oVY
+#EXTINF:-1 group-title="Кино", =49
+https://707.su/4Ki
+#EXTINF:-1 group-title="Кино", ТВ 21
+https://707.su/bUU
+#EXTINF:-1 group-title="Кино", СТС Love
+https://707.su/FrC
+#EXTINF:-1 group-title="Спорт", Матч Страна
+https://707.su/QPe
+#EXTINF:-1 group-title="Спорт", Eurosport 2
+https://707.su/Ym3
+#EXTINF:-1 group-title="Спорт", Viju Sport
+https://707.su/v1o
+#EXTINF:-1 group-title="Спорт", REX HD
+https://707.su/vJE
+#EXTINF:-1 group-title="Спорт",KHL Live(хокей)
+https://707.su/NKQ
+#EXTINF:-1 group-title="Музыка", RU TV
+https://707.su/K4H
+#EXTINF:-1 group-title="Природа", Моя планета
+https://707.su/W8Y
+#EXTINF:-1 group-title="Наука", Н
+https://707.su/S1B
+#EXTINF:-1 group-title="Познавательные", История
+https://707.su/l8c
+#EXTINF:-1 group-title="Кино", Дорама
+https://707.su/5L8
+#EXTINF:-1 group-title="Кино", Viju + Premiere
+https://707.su/7g9
+#EXTINF:-1 group-title="Познавательные", Explore
+https://707.su/H9y
+#EXTINF:-1 group-title="Познавательные", History
+https://707.su/Qox
+#EXTINF:-1 group-title="Познавательные", Nature
+https://707.su/jAQ
+#EXTINF:-1 group-title="Познавательные", Телепутешествия
+https://707.su/qyA
+#EXTINF:-1 group-title="Познавательные", Galaxy
+https://707.su/oD2
+#EXTINF:-1 group-title="Познавательные", RTG TV
+https://707.su/MMT
+#EXTINF:-1 group-title="Природа", Zoo парк
+https://707.su/1TO
 #EXTINF:-1,АВТО
 http://94.232.104.237:8000/play/087/index.m3u8
 #EXTINF:-1,Оружие
