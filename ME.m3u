@@ -424,17 +424,17 @@ https://707.su/NKT
 https://707.su/XwQ
 #EXTINF:-1 group-title="Развлекательный", СТС
 https://707.su/M8z
-#EXTINF:-1 group-title="Развлекательные", 360 HD 
+#EXTINF:-1 group-title="Развлекательный", 360 HD 
 https://707.su/lpl
-#EXTINF:-1 group-title="Развлекательные", Эхо TV 
+#EXTINF:-1 group-title="Развлекательный", Эхо TV 
 https://707.su/TO3
-#EXTINF:-1 group-title="Развлекательные", Ю 
+#EXTINF:-1 group-title="Развлекательный", Ю 
 https://707.su/0Gj
-#EXTINF:-1 group-title="Развлекательные", Ратник 
+#EXTINF:-1 group-title="Развлекательный", Ратник 
 https://707.su/YDm
-#EXTINF:-1 group-title="Развлекательные", Родной канал HD 
+#EXTINF:-1 group-title="Развлекательный", Родной канал HD 
 https://707.su/jhN 
-#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательные", Светлое ТВ HD
+#EXTINF:-1 tvg-id="svetloe-tv" group-title="Развлекательный", Светлое ТВ HD
 https://707.su/qH3
 
 #EXTINF:-1 group-title="Спорт", Матч
@@ -486,25 +486,25 @@ https://707.su/Igd
 https://707.su/pW0
 
 
-#EXTINF:-1 group-title="Детский", Солнце
+#EXTINF:-1 group-title="Детские", Солнце
 https://707.su/6RC
 #EXTINF:-1 tvg-id="solnce" group-title="Детские", Солнце
 https://707.su/B63
-#EXTINF:-1 group-title="Детский", Мультиландия
+#EXTINF:-1 group-title="Детские", Мультиландия
 https://707.su/udL
-#EXTINF:-1 group-title="Детский", УНИКУМ
+#EXTINF:-1 group-title="Детские", УНИКУМ
 https://707.su/j89
-#EXTINF:-1 group-title="Детский", CN
+#EXTINF:-1 group-title="Детские", CN
 https://707.su/Srg
-#EXTINF:-1 group-title="Детский", ДЕТСКИЙ МИР
+#EXTINF:-1 group-title="Детские", ДЕТСКИЙ МИР
 https://707.su/S8B
-#EXTINF:-1 group-title="Детский", Супер герои
+#EXTINF:-1 group-title="Детские", Супер герои
 https://707.su/gU7
-#EXTINF:-1 group-title="Детский", Смайлики ТВ
+#EXTINF:-1 group-title="Детские", Смайлики ТВ
 https://707.su/gfQ
-#EXTINF:-1 group-title="Детский", ani
+#EXTINF:-1 group-title="Детские", ani
 https://707.su/YZj
-#EXTINF:-1 group-title="Детский", Карусель
+#EXTINF:-1 group-title="Детские", Карусель
 https://707.su/DPt 
 #EXTINF:-1 tvg-id="baby-time" group-title="Детские", Baby Time
 https://707.su/InA
@@ -538,7 +538,7 @@ https://707.su/Izy
 rtmp://93.189.60.202//1041
 #EXTINF:-1 group-title="Детские", Nicktoons
 https://707.su/PGm 
-#EXTINF:-1 group-title="Детскте", Кнопка ТВ 
+#EXTINF:-1 group-title="Детские", Кнопка ТВ 
 https://707.su/iFl
 #EXTINF:-1 group-title="Детские", ПлюсПлюс ua
 https://707.su/lOl
@@ -579,5 +579,4 @@ https://707.su/KMb
 
 #EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 https://707.su/jsj
-
 
