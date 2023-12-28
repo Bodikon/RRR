@@ -326,7 +326,21 @@ https://707.su/lcu
 https://707.su/Eq9
 #EXTINF:-1 group-title="Новости", Euronews
 https://707.su/LtX
-
+#EXTINF:-1 tvg-id="100NEWS.ua" group-title="Новости", 100% News ua
+https://707.su/kVy
+#EXTINF:-1 tvg-id="IT3.ua" group-title="Новости", IT-3 ua
+https://707.su/3Fb
+#EXTINF:-1 tvg-id="PTV.ua" group-title="Новости", PTV ua
+https://707.su/LpB
+#EXTINF:-1 tvg-id="TSN.ua" group-title="Новости", TCH ua
+https://707.su/ezV
+#EXTINF:-1 tvg-id="UkraineWorldNews.ua" group-title="Новости", Ukraine World News ua
+#EXTINF:-1 tvg-id="Glas.ua" group-title="Новости", Глас ua
+https://707.su/OQE
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" group-title="Новости", Ми-Україна ua
+https://707.su/FMy
+#EXTINF:-1 tvg-id="Reporter.ua"group-title="Новости",ТК Репортер Одесса
+https://707.su/tlG
 
 #EXTINF:-1 group-title="Общий", 12 Канал HD
 https://707.su/ly4
@@ -370,7 +384,36 @@ https://707.su/gdk
 https://707.su/LG9
 #EXTINF:-1 group-title="Общий", Россия 1
 https://707.su/v5R
-
+#EXTINF:-1 tvg-id="SK1.ua" group-title="Общий", СК1 Житомир ua
+https://707.su/Rmo
+#EXTINF:-1 tvg-id="SuspilneKyiv.ua" group-title="Общий", Суспільне Київ HD ua
+https://707.su/k5w
+#EXTINF:-1 tvg-id="SferaTV.ua" group-title="Общий", Сфера ТВ ua
+https://707.su/Ona
+#EXTINF:-1 tvg-id="Cherniveckiypromin.ua" group-title="Общий", Чернiвецький Промiнь
+https://707.su/dw0
+#EXTINF:-1 tvg-id="NTVMir.ru" group-title="Общий", НТВ Мир
+https://707.su/wsD
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" group-title="Общий", ОНТ ua
+https://707.su/kpz
+#EXTINF:-1 tvg-id="" group-title="Общий", Полтавское ТВ ua
+https://707.su/dd4
+#EXTINF:-1 tvg-id="Priamyi.ua" group-title="Общий", Прямий HD ua
+https://707.su/bJp
+#EXTINF:-1 tvg-id="EspresoTV.ua" group-title="Общий", Еспресо HD ua
+https://707.su/Stf
+#EXTINF:-1 tvg-id="" group-title="Общий", Закон-ТВ HD ua
+https://707.su/M0i
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Общий", Київ
+https://707.su/tD9
+#EXTINF:-1 tvg-id="GalychynaTV.ua" group-title="Общий", Галичина HD ua
+https://707.su/eK6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Разное", D1 ua
+https://707.su/zW0
+#EXTINF:-1 tvg-id="ApostropheTV.ua" group-title="Общий", Апостроф TV ua
+https://707.su/xpT
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="Общий", 7 ua
+https://707.su/Q2A
 
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
@@ -438,6 +481,8 @@ https://707.su/zC1
 https://707.su/mPG
 #EXTINF:-1 group-title="Религия", Спас
 https://707.su/Igd
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" group-title="Религия", EWTN ua 
+https://707.su/pW0
 
 #EXTINF:-1 group-title="Детский", Солнце
 https://707.su/6RC
@@ -504,6 +549,8 @@ https://707.su/vYM
 https://707.su/GnD
 #EXTINF:-1 group-title="Военные", Оружие
 https://707.su/cCE
+#EXTINF:-1 tvg-id="ArmyTV.ua" group-title="Военные", Армія ТВ HD ua
+https://707.su/MZs
 
 #EXTINF:-1 group-title="Женский", WFC.TV
 https://707.su/pDq
@@ -524,8 +571,9 @@ https://707.su/g7x
 https://707.su/fQc
 #EXTINF:-1 group-title="Политические", Красная линия 
 https://707.su/uzw
+#EXTINF:-1 tvg-id="RadaTV.ua" group-title="Политика", Рада ua
+https://707.su/KMb
 
 #EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 https://707.su/jsj
-
 
