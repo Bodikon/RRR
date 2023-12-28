@@ -342,6 +342,7 @@ https://707.su/FMy
 #EXTINF:-1 tvg-id="Reporter.ua"group-title="Новости",ТК Репортер Одесса
 https://707.su/tlG
 
+
 #EXTINF:-1 group-title="Общий", 12 Канал HD
 https://707.su/ly4
 #EXTINF:-1 group-title="Общий", Вот ТВ HD
@@ -484,6 +485,7 @@ https://707.su/Igd
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" group-title="Религия", EWTN ua 
 https://707.su/pW0
 
+
 #EXTINF:-1 group-title="Детский", Солнце
 https://707.su/6RC
 #EXTINF:-1 tvg-id="solnce" group-title="Детские", Солнце
@@ -567,13 +569,15 @@ https://707.su/rmF
 #EXTINF:-1 group-title="Разное", ОТВ
 https://707.su/g7x
 
-#EXTINF:-1 group-title="Политические", Дума ТВ 
+#EXTINF:-1 group-title="Политика", Дума ТВ 
 https://707.su/fQc
-#EXTINF:-1 group-title="Политические", Красная линия 
+#EXTINF:-1 group-title="Политика", Красная линия 
 https://707.su/uzw
 #EXTINF:-1 tvg-id="RadaTV.ua" group-title="Политика", Рада ua
 https://707.su/KMb
 
+
 #EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 https://707.su/jsj
+
 
