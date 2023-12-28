@@ -86,6 +86,8 @@ https://707.su/vru
 https://707.su/Yk1
 #EXTINF:-1 group-title="Кино", Dizi
 https://707.su/Lvq
+#EXTINF:-1 tvg-id="timeless-dizi" group-title="Кино",Timeless Dizi Channel
+https://707.su/iAF
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Кино", BackusTV Dark HD 
 https://707.su/43p
 #EXTINF:-1 tvg-id="backustv"group-title="Кино", BackusTV HD 
@@ -94,6 +96,45 @@ https://707.su/xLk
 https://707.su/2Q5
 #EXTINF:-1 group-title="Кино", Ростов-папа HD
 https://707.su/lqc
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Film UADrama Европа
+https://707.su/BKt
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Film UADrama Европа
+https://707.su/BKt
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Star Cinema HD
+https://707.su/HLl
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="Кино",Hollywood HD
+https://707.su/aur
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино",Cinema UHD
+https://707.su/es4
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино",Cinema HD
+https://707.su/1OX
+#EXTINF:-1 tvg-id="epik-drama" group-title="Кино",Epic Drama HD
+rtmp://93.189.60.202//1048
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино",FilmBox
+rtmp://93.189.60.202//1071
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино",Bollywood HD
+https://707.su/u3E
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино",Индийское кино
+https://707.su/SXf
+#EXTINF:-1 tvg-id="zee-tv" group-title="Кино",Индия
+rtmp://93.189.60.202//1001
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Кино", НТВ Хит
+https://707.su/11m
+#EXTINF:-1 tvg-id="krasnaya-linia" group-title="Кино",Красная линия
+https://707.su/CPB
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Кино",НТВ Сериал
+https://707.su/Zga#EXTINF:-1 tvg-id="tvxxi" group-title="Кино",TV 21
+https://707.su/NCV
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="Кино", Комедия
+https://707.su/3Ks
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Киноман
+https://707.su/Xqv
+#EXTINF:-1 tvg-id="kinomiks" group-title="Кино", Киномикс
+https://707.su/zr5
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино", Киноужас
+https://707.su/szm
+#EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит
+https://707.su/c4J
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
@@ -158,7 +199,6 @@ https://707.su/oD2
 https://707.su/MMT
 #EXTINF:-1 group-title="Познавательные", ЗЖ
 https://707.su/ldD
-
 
 #EXTINF:-1 group-title="Наука", Мособр TV HD
 https://707.su/SXY
@@ -234,7 +274,6 @@ https://707.su/LG9
 #EXTINF:-1 group-title="Общий", Россия 1
 https://707.su/v5R
 
-
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
 #EXTINF:-1 group-title="Развлекательный", ТНТ4
@@ -269,9 +308,11 @@ https://707.su/mPG
 #EXTINF:-1 group-title="Религия", Спас
 https://707.su/Igd
 
-#EXTINF:-1 group-title="Детский",Солнце
+#EXTINF:-1 group-title="Детский", Солнце
 https://707.su/6RC
-#EXTINF:-1 group-title="Детский", МУЛЬТЛАНДИЯ
+#EXTINF:-1 tvg-id="solnce" group-title="Детские", Солнце
+https://707.su/B63
+#EXTINF:-1 group-title="Детский", Мультиландия
 https://707.su/udL
 #EXTINF:-1 group-title="Детский", УНИКУМ
 https://707.su/j89
@@ -287,6 +328,36 @@ https://707.su/gfQ
 https://707.su/YZj
 #EXTINF:-1 group-title="Детский", Карусель
 https://707.su/DPt 
+#EXTINF:-1 tvg-id="baby-time" group-title="Детские", Baby Time
+https://707.su/InA
+#EXTINF:-1 tvg-id="ducktv" group-title="Детские", Duck TV HD
+https://707.su/Wdh
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Детские", Gulli Girl
+https://707.su/YOK
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Детские", В гостях у сказки
+https://707.su/Slo
+#EXTINF:-1 tvg-id="ginger-hd" group-title="Детские", Капитан Фантастика
+https://707.su/m5Q
+#EXTINF:-1 tvg-id="karusel" group-title="Детские", Карусель
+https://707.su/huF
+#EXTINF:-1 tvg-id="liova" group-title="Детские", Лёва HD
+https://707.su/CcP
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Детские", Мамонтёнок
+https://707.su/DX6
+#EXTINF:-1 tvg-id="mult" group-title="Детские", Мульт HD
+https://707.su/eX6
+#EXTINF:-1 tvg-id="multimuzyka" group-title="Детские", Мульт и музыка
+https://707.su/XKH
+#EXTINF:-1 tvg-id="multimania" group-title="Детские", Мультиландия HD
+https://707.su/Clj
+#EXTINF:-1 tvg-id="multimania-lv" group-title="Детские", Мультимания
+https://707.su/W6Y
+#EXTINF:-1 tvg-id="pingvin-lolo" group-title="Детские", Пингвин Лоло
+https://707.su/Ir8
+#EXTINF:-1 tvg-id="ryzhy" group-title="Детские", Рыжий
+https://707.su/Izy
+#EXTINF:-1 tvg-id="malysh" group-title="Детские",СуперГерои
+rtmp://93.189.60.202//1041
 
 #EXTINF:-1 group-title="Военные", АТВ HD ua
 https://707.su/vYM
@@ -307,5 +378,3 @@ https://707.su/Rpi
 
 #EXTINF:-1 group-title="Разное", ОТВ
 https://707.su/g7x
-
-
