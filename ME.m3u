@@ -9,6 +9,10 @@ https://707.su/UTp
 https://707.su/HiO
 #EXTINF:-1 group-title="Кино", 43 канал HD тест
 https://707.su/Uh8
+#EXTINF:-1 tvg-id="Channel43.ru" group-title="Кино", 43 канал
+https://707.su/O81
+#EXTINF:-1 tvg-id="" group-title="Кино", 43 Канал HD
+https://707.su/f3V
 #EXTINF:-1 group-title="Кино", Приключения HD
 https://707.su/2h1
 #EXTINF:-1 group-title="Кино", СТРК HD
