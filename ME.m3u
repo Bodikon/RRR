@@ -155,6 +155,8 @@ https://707.su/joK
 https://707.su/PGm
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv", Star Cinema
 rtmp://93.189.60.202//992
+#EXTINF:-1 group-title="Кино", Film Box ru
+rtmp://93.189.60.202//1071
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
@@ -182,6 +184,8 @@ https://707.su/6bE
 https://707.su/PqJ
 #EXTINF:-1 group-title="Музыка", MTV 90s
 https://707.su/DhL
+#EXTINF:-1 group-title="Музыка", MTV 90s ua
+rtmp://93.189.60.202//1038
 #EXTINF:-1 group-title="Музыка", Bridge
 https://707.su/qVS
 #EXTINF:-1 group-title="Музыка", Bridge classic
@@ -228,6 +232,16 @@ https://707.su/73E
 https://707.su/aTJ
 #EXTINF:-1 group-title="Музыка", Music 4EVER ua
 rtmp://93.189.60.202//970
+#EXTINF:-1 group-title="Музыка", OneRUS
+https://707.su/Woy
+#EXTINF:-1 group-title="Музыка", OneRUS HD
+https://707.su/0jT
+#EXTINF:-1 group-title="Музыка", Страна FM TV
+https://707.su/MBj
+#EXTINF:-1 group-title="Музыка", ПМ BY HD
+https://707.su/HOT
+#EXTINF:-1 group-title="Музыка",  Первый Музыкальный RU BY HD
+https://707.su/4Zg
 
 #EXTINF:-1 group-title="Познавательные", Усадьба
 https://707.su/074
@@ -287,6 +301,10 @@ https://707.su/iyB
 rtmp://93.189.60.202//968
 #EXTINF:-1 group-title="Познавательные", HDL
 rtmp://93.189.60.202//971
+#EXTINF:-1 group-title="Познавательные", Da Vinci ru
+rtmp://93.189.60.202//1033
+#EXTINF:-1 group-title="Познавательные", Travel ru
+rtmp://93.189.60.202//1070
 
 #EXTINF:-1 group-title="Наука", Мособр TV HD
 https://707.su/SXY
@@ -347,8 +365,10 @@ https://707.su/ezV
 https://707.su/OQE
 #EXTINF:-1 tvg-id="MyUkrainaTV.ua" group-title="Новости", Ми-Україна ua
 https://707.su/FMy
-#EXTINF:-1 tvg-id="Reporter.ua"group-title="Новости",ТК Репортер Одесса
+#EXTINF:-1 tvg-id="Reporter.ua" group-title="Новости", ТК Репортер Одесса
 https://707.su/tlG
+#EXTINF:-1 group-title="Новости", 5 канал ua
+rtmp://93.189.60.202//1030
 
 
 #EXTINF:-1 group-title="Общий", 12 Канал HD
@@ -421,8 +441,16 @@ https://707.su/eK6
 https://707.su/zW0
 #EXTINF:-1 tvg-id="ApostropheTV.ua" group-title="Общий", Апостроф TV ua
 https://707.su/xpT
-#EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="Общий", 7 ua
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="Общий", 7 канал ua
 https://707.su/Q2A
+#EXTINF:-1 group-title="Общий", 7 канал ua
+rtmp://93.189.60.202//1035
+#EXTINF:-1 group-title="Общий", 4v ua
+rtmp://93.189.60.202//1039
+#EXTINF:-1 group-title="Общий",  Киев
+rtmp://93.189.60.202//1040
+#EXTINF:-1 group-title="Общий", CBC ru
+rtmp://93.189.60.202//1050
 
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
