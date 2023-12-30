@@ -484,8 +484,10 @@ https://707.su/mPG
 https://707.su/Igd
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" group-title="Религия", EWTN ua 
 https://707.su/pW0
-#EXTINF:-1, group-title="Религия" GNC
+#EXTINF:-1 group-title="Религия", GNC
 rtmp://93.189.60.202//955
+#EXTINF:-1 group-title="Религия", Надия
+rtmp://93.189.60.202//956
 
 
 #EXTINF:-1 group-title="Детские", Солнце
