@@ -490,6 +490,8 @@ rtmp://93.189.60.202//1050
 https://707.su/gGF
 #EXTINF:-1 group-title="Общий", ITV HD
 https://707.su/3hX
+#EXTINF:-1 tvg-id="7tv.ru" group-title="Общий", 7 TV
+https://707.su/gRP
 
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
