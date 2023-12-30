@@ -483,6 +483,8 @@ https://707.su/mif
 https://707.su/N2N
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спорт", Q Sport
 https://707.su/zm7
+#EXTINF:-1  , X Sport ua
+rtmp://93.189.60.202//996
 
 #EXTINF:-1 group-title="Религия", Союз
 https://707.su/zC1
