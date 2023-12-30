@@ -163,6 +163,10 @@ https://707.su/nea
 https://707.su/MCq
 #EXTINF:-1 group-title="Кино", Cinema Classic TV
 https://707.su/mdi
+#EXTINF:-1 tvg-id="pro100" group-title="Кино", PRO 100
+https://707.su/e35
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Epic Media TV
+https://707.su/S0K
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
@@ -457,6 +461,10 @@ rtmp://93.189.60.202//1039
 rtmp://93.189.60.202//1040
 #EXTINF:-1 group-title="Общий", CBC ru
 rtmp://93.189.60.202//1050
+#EXTINF:-1 group-title="Общий", ТИС ТВ ua
+https://707.su/gGF
+#EXTINF:-1 group-title="Общий", ITV HD
+https://707.su/3hX
 
 #EXTINF:-1group-title="Развлекательный", БОБЕР
 https://707.su/woZ
@@ -612,11 +620,17 @@ https://707.su/pDq
 https://707.su/TwM
 #EXTINF:-1 group-title="Женский", D женский
 https://707.su/S8G
+#EXTINF:-1 tvg-id="fashion-tv-eu" group-title="Женский", Fashion TV
+https://707.su/mlO
+#EXTINF:-1 tvg-id="no_epg" group-title="Женский", Fashion TV Midnight Secrets
+https://707.su/cgP
 
 #EXTINF:-1 group-title="Заставка", WORLD HD
 https://707.su/Rpi
 #EXTINF:-1 group-title="Заставка", Наша сибирь
 https://707.su/rmF 
+#EXTINF:-1 group-title="Заставка",Travel Guide TV ua
+https://707.su/GD4
 
 #EXTINF:-1 group-title="Разное", ОТВ
 https://707.su/g7x
