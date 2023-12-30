@@ -153,6 +153,8 @@ https://707.su/08a
 https://707.su/joK
 #EXTINF:-1 group-title="Кино" tvg-id="trashtv", Trash HD 
 https://707.su/PGm
+#EXTINF:-1 group-title="Кино" tvg-id="trashtv", Star Cinema
+rtmp://93.189.60.202//992
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
