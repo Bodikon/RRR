@@ -624,6 +624,12 @@ https://707.su/S8G
 https://707.su/mlO
 #EXTINF:-1 tvg-id="no_epg" group-title="Женский", Fashion TV Midnight Secrets
 https://707.su/cgP
+#EXTINF:-1 tvg-id="no_epg" group-title="Женский", FTV UHD
+https://707.su/Es8
+#EXTINF:-1 tvg-id="fashion-one-hd" group-title="Женский", Fashion & LifeStyle
+https://707.su/gfV
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Женские", World Fashion Channel
+https://707.su/kke
 
 #EXTINF:-1 group-title="Заставка", WORLD HD
 https://707.su/Rpi
