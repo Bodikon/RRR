@@ -628,8 +628,16 @@ https://707.su/cgP
 https://707.su/Es8
 #EXTINF:-1 tvg-id="fashion-one-hd" group-title="Женский", Fashion & LifeStyle
 https://707.su/gfV
-#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Женские", World Fashion Channel
+#EXTINF:-1 tvg-id="world-fashion-channel" group-title="Женский", World Fashion Channel
 https://707.su/kke
+#EXTINF:-1 tvg-id="zhivi" group-title="Женский", Живи
+https://707.su/HUW
+#EXTINF:-1 tvg-id="mama" group-title="Женский", Мама
+https://707.su/PAN
+#EXTINF:-1 tvg-id="tonus-tv" group-title="Женский", Тонус ТВ
+https://707.su/DXe
+#EXTINF:-1 tvg-id="yu" group-title="Женский", Ю
+https://707.su/9B7
 
 #EXTINF:-1 group-title="Заставка", WORLD HD
 https://707.su/Rpi
