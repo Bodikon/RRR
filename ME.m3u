@@ -189,16 +189,8 @@ https://707.su/PqJ
 https://707.su/DhL
 #EXTINF:-1 group-title="Музыка", MTV 90s ua
 rtmp://93.189.60.202//1038
-#EXTINF:-1 group-title="Музыка", Bridge
-https://707.su/qVS
-#EXTINF:-1 group-title="Музыка", Bridge classic
-https://707.su/GlH
 #EXTINF:-1 group-title="Музыка", ТНТ music
 https://707.su/OcF
-#EXTINF:-1 group-title="Музыка", Bridge TV Classic
-https://707.su/V1I
-#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge TV Deluxe
-https://707.su/YXl
 #EXTINF:-1 group-title="Музыка", MTV 00's
 https://707.su/PYU
 #EXTINF:-1 group-title="Музыка", Trace Urban HD
@@ -211,26 +203,34 @@ https://707.su/mr5
 https://707.su/yWP
 #EXTINF:-1 group-title="Музыка", Муз-ТВ +2
 https://707.su/wkb
-#EXTINF:-1 group-title="Музыка", Bridge TV Hits
-https://707.su/15A
 #EXTINF:-1 group-title="Музыка", MCM Top
 https://707.su/W2q
 #EXTINF:-1 group-title="Музыка", MusicBox Gold 
 https://707.su/gmz
 #EXTINF:-1 group-title="Музыка", Kronehit
 https://707.su/hls
+#EXTINF:-1 group-title="Музыка", Bridge
+https://707.su/qVS
+#EXTINF:-1 group-title="Музыка", Bridge TV Hits
+https://707.su/15A
 #EXTINF:-1 group-title="Музыка", Bridge TV Rock
 https://707.su/zHa
-#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
-https://707.su/j9u
+#EXTINF:-1 group-title="Музыка", Bridge TV Classic
+https://707.su/V1I
+#EXTINF:-1 group-title="Музыка", Bridge TV Classic
+https://707.su/GlH
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыка", Bridge TV Deluxe
+https://707.su/YXl
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыка", Bridge TV Шлягер
 https://707.su/jOA
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
+https://707.su/73E
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Музыка", Clubbing TV 
+https://707.su/j9u
 #EXTINF:-1 group-title="Музыка", RU.TV 
 https://707.su/rca
 #EXTINF:-1 group-title="Музыка", Russian MusicBox
 https://707.su/JhT
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Музыка", Bridge TV Русский Хит
-https://707.su/73E
 #EXTINF:-1 tvg-id="aiva" group-title="Музыка", Aiva HD
 https://707.su/aTJ
 #EXTINF:-1 group-title="Музыка", Music 4EVER ua
@@ -243,12 +243,40 @@ https://707.su/0jT
 https://707.su/MBj
 #EXTINF:-1 group-title="Музыка", ПМ BY HD
 https://707.su/HOT
-#EXTINF:-1 group-title="Музыка",  Первый Музыкальный RU BY HD
+#EXTINF:-1 group-title="Музыка", Первый Музыкальный RU BY HD
 https://707.su/4Zg
 #EXTINF:-1 group-title="Музыка", Kronehit TV HD
 https://707.su/f4j
 #EXTINF:-1 group-title="Музыка", Kronehit TV [FHD]
 https://707.su/zkB
+#EXTINF:-1 tvg-id="ClubbingTV.fr" group-title="Музыка", Clubbing TV
+https://goo.su/lrUBnzX
+#EXTINF:-1 tvg-id="HitsChannel.co" group-title="Музыка", CNC Pasto Hits Channel
+https://707.su/sPJ
+#EXTINF:-1 tvg-id="DeluxeLounge.de" group-title="Музыка", Deluxe Lounge
+https://707.su/1Jk
+#EXTINF:-1 tvg-id="DeluxeMusic.de" group-title="Музыка", Deluxe Music
+https://707.su/LBC
+#EXTINF:-1 tvg-id="m2oTV.it" group-title="Музык", M2O TV 
+https://707.su/JCx
+#EXTINF:-1 tvg-id="Vevo2K.us" group-title="Music", TV VEVO 
+https://707.su/e9Q
+#EXTINF:-1 tvg-id="Vevo70s.us" group-title="Music", TV VEVO 70's
+https://707.su/FfS
+#EXTINF:-1 tvg-id="Vevo80s.us" group-title="Music", TV VEVO 80's
+https://707.su/Xu4
+#EXTINF:-1 tvg-id="Vevo90s.us" group-title="Music", TV VEVO 90's
+https://707.su/ml2
+#EXTINF:-1 tvg-id="VevoCountry.us" group-title="Music", TV VEVO Country
+https://707.su/0pu
+#EXTINF:-1 tvg-id="VevoRB.us" group-title="Music", TV VEVO R&B
+https://707.su/H1Y
+#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" group-title="Music", TV VEVO R&T 
+https://707.su/khQ
+
+
+
+
 
 #EXTINF:-1 group-title="Познавательные", Усадьба
 https://707.su/074
@@ -557,6 +585,8 @@ https://707.su/Srg
 https://707.su/S8B
 #EXTINF:-1 group-title="Детские", Супер герои
 https://707.su/gU7
+#EXTINF:-1 tvg-id="malysh" group-title="Детские", СуперГерои
+rtmp://93.189.60.202//1041
 #EXTINF:-1 group-title="Детские", Смайлики ТВ
 https://707.su/gfQ
 #EXTINF:-1 group-title="Детские", ani
@@ -591,8 +621,6 @@ https://707.su/W6Y
 https://707.su/Ir8
 #EXTINF:-1 tvg-id="ryzhy" group-title="Детские", Рыжий
 https://707.su/Izy
-#EXTINF:-1 tvg-id="malysh" group-title="Детские",СуперГерои
-rtmp://93.189.60.202//1041
 #EXTINF:-1 group-title="Детские", Nicktoons
 https://707.su/PGm 
 #EXTINF:-1 group-title="Детские", Кнопка ТВ 
@@ -613,8 +641,10 @@ https://707.su/MZs
 
 #EXTINF:-1 group-title="Женский", WFC.TV
 https://707.su/pDq
-#EXTINF:-1 group-title="Женский", МАМА
+#EXTINF:-1 group-title="Женский", Мама
 https://707.su/TwM
+#EXTINF:-1 tvg-id="mama" group-title="Женский", Мама
+https://707.su/PAN
 #EXTINF:-1 group-title="Женский", D женский
 https://707.su/S8G
 #EXTINF:-1 tvg-id="fashion-tv-eu" group-title="Женский", Fashion TV
@@ -629,8 +659,6 @@ https://707.su/gfV
 https://707.su/kke
 #EXTINF:-1 tvg-id="zhivi" group-title="Женский", Живи
 https://707.su/HUW
-#EXTINF:-1 tvg-id="mama" group-title="Женский", Мама
-https://707.su/PAN
 #EXTINF:-1 tvg-id="tonus-tv" group-title="Женский", Тонус ТВ
 https://707.su/DXe
 #EXTINF:-1 tvg-id="yu" group-title="Женский", Ю
@@ -654,4 +682,3 @@ https://707.su/KMb
 
 #EXTINF:-1 group-title="Игры" tvg-id="e-tv", E HD
 https://707.su/jsj
-
