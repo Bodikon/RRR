@@ -5,15 +5,8 @@ https://707.su/NAw
 https://707.su/2YA
 #EXTINF:-1 group-title="Кино", Киносат
 https://707.su/UTp
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ultra-hd-cinema"group-title="Кино", Ultra HD Cinema 
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://707.su/Wel
 #EXTINF:-1 tvg-id="trashtv"group-title="Кино", Trash_HD 
 https://707.su/HiO
-#EXTINF:-1 group-title="Кино", Kronehit TV HD
-https://707.su/f4j
-#EXTINF:-1 group-title="Кино", Kronehit TV [FHD]
-https://707.su/zkB
 #EXTINF:-1 group-title="Кино", 43 канал HD
 https://707.su/Uh8
 #EXTINF:-1 group-title="Кино", Приключения HD
@@ -252,6 +245,10 @@ https://707.su/MBj
 https://707.su/HOT
 #EXTINF:-1 group-title="Музыка",  Первый Музыкальный RU BY HD
 https://707.su/4Zg
+#EXTINF:-1 group-title="Музыка", Kronehit TV HD
+https://707.su/f4j
+#EXTINF:-1 group-title="Музыка", Kronehit TV [FHD]
+https://707.su/zkB
 
 #EXTINF:-1 group-title="Познавательные", Усадьба
 https://707.su/074
