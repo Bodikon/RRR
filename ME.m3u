@@ -157,6 +157,12 @@ https://707.su/PGm
 rtmp://93.189.60.202//992
 #EXTINF:-1 group-title="Кино", Film Box ru
 rtmp://93.189.60.202//1071
+#EXTINF:-1 group-title="Кино", КИНО-1 INTERNATIONAL
+https://707.su/nea
+#EXTINF:-1 group-title="Кино", Кино 1 International
+https://707.su/MCq
+#EXTINF:-1 group-title="Кино", Cinema Classic TV
+https://707.su/mdi
 
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
