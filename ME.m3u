@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="Кино", Кино ТВ
+#EXTINF:-1 group-title="Кино", Кино ТВ(1)
+https://707.su/vU8
+#EXTINF:-1 group-title="Кино", Кино ТВ(2)
+https://707.su/Cjz
+#EXTINF:-1 group-title="Кино", Кино ТВ(3)
+https://707.su/0gE
+#EXTINF:-1 group-title="Кино", Кино ТВ(4)
+https://707.su/uAi
+#EXTINF:-1 group-title="Кино", Кино ТВ HD(5)
+https://707.su/TCd
+#EXTINF:-1 group-title="Кино", Кино ТВ HD(6)
+https://707.su/qXc
+#EXTINF:-1 group-title="Кино", Кино ТВ(7)
 https://707.su/NAw
-#EXTINF:-1 group-title="Кино", Кино ТВ
+#EXTINF:-1 group-title="Кино", Кино ТВ(8)
 https://707.su/2YA
-#EXTINF:-1 group-title="Кино", Киносат
+#EXTINF:-1 group-title="Кино", Киносат-
 https://707.su/UTp
-#EXTINF:-1 tvg-id="trashtv"group-title="Кино", Trash_HD 
+#EXTINF:-1 tvg-id="trashtv" group-title="Кино", Trash_HD(1)
 https://707.su/HiO
-#EXTINF:-1 group-title="Кино", 43 канал HD тест
+#EXTINF:-1 group-title="Кино", Trash(2)
+https://707.su/TF7
+#EXTINF:-1 group-title="Кино", Trash(3)
+https://707.su/ZMg
+#EXTINF:-1 group-title="Кино", Trash(4)
+https://707.su/1UO
+#EXTINF:-1 group-title="Кино", 43 канал HD тест(1)
 https://707.su/Uh8
-#EXTINF:-1 tvg-id="Channel43.ru" group-title="Кино", 43 канал
+#EXTINF:-1 tvg-id="Channel43.ru" group-title="Кино", 43 канал(2)
 https://707.su/O81
-#EXTINF:-1 tvg-id="" group-title="Кино", 43 Канал HD
+#EXTINF:-1 tvg-id="" group-title="Кино", 43 Канал HD(3)
 https://707.su/f3V
-#EXTINF:-1 group-title="Кино", Приключения HD
+#EXTINF:-1 group-title="Кино", Приключения HD-
 https://707.su/2h1
-#EXTINF:-1 group-title="Кино", СТРК HD
+#EXTINF:-1 group-title="Кино", СТРК HD-
 https://707.su/riq
 #EXTINF:-1 group-title="Кино", Kronehit HD
 https://707.su/3SI
@@ -97,43 +115,55 @@ https://707.su/2Q5
 https://707.su/lqc
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Film UADrama Европа
 https://707.su/BKt
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Film UADrama Европа
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Film UADrama Европа
 https://707.su/BKt
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино",Star Cinema HD
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Star Cinema HD
 https://707.su/HLl
-#EXTINF:-1 tvg-id="hollywood-hd" group-title="Кино",Hollywood HD
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="Кино", Hollywood HD
 https://707.su/aur
-#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино",Cinema UHD
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Кино", Cinema UHD
 https://707.su/es4
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино",Cinema HD
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Кино", Cinema HD
 https://707.su/1OX
-#EXTINF:-1 tvg-id="epik-drama" group-title="Кино",Epic Drama HD
+#EXTINF:-1 tvg-id="epik-drama" group-title="Кино", Epic Drama HD
 rtmp://93.189.60.202//1048
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино",FilmBox
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Кино", FilmBox
 rtmp://93.189.60.202//1071
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино",Bollywood HD
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Кино", Bollywood HD
 https://707.su/u3E
-#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино",Индийское кино
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино", Индийское кино
 https://707.su/SXf
-#EXTINF:-1 tvg-id="zee-tv" group-title="Кино",Индия
+#EXTINF:-1 tvg-id="zee-tv" group-title="Кино", Индия
 rtmp://93.189.60.202//1001
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Кино", НТВ Хит
 https://707.su/11m
-#EXTINF:-1 tvg-id="krasnaya-linia" group-title="Кино",Красная линия
+#EXTINF:-1 tvg-id="krasnaya-linia" group-title="Кино", Красная линия
 https://707.su/CPB
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Кино",НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Кино", НТВ Сериал
 https://707.su/Zga#EXTINF:-1 tvg-id="tvxxi" group-title="Кино",TV 21
 https://707.su/NCV
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="Кино", Комедия
 https://707.su/3Ks
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Киноман
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кино", Киноман(1)
 https://707.su/Xqv
+#EXTINF:-1 group-title="Кино", Киноман(2)
+https://707.su/vIR
+#EXTINF:-1 group-title="Кино", Кинопоказ(1)
+https://707.su/CrM
+#EXTINF:-1 group-title="Кино", Кинопоказ(2)
+https://707.su/b1q
 #EXTINF:-1 tvg-id="kinomiks" group-title="Кино", Киномикс
 https://707.su/zr5
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Кино", Киноужас
 https://707.su/szm
 #EXTINF:-1 tvg-id="kinoxit" group-title="Кино", Кинохит
 https://707.su/c4J
+#EXTINF:-1 group-title="Кино", Кинеко(1)
+https://707.su/Xqg
+#EXTINF:-1 group-title="Кино", Кинеко(2)
+https://707.su/AF4
+#EXTINF:-1 group-title="Кино", Кинеко HD(3)
+https://707.su/EHY
 #EXTINF:-1 group-title="Кино", Fox  
 https://707.su/mwm
 #EXTINF:-1 group-title="Кино", Kino24
@@ -631,8 +661,11 @@ https://707.su/Ir8
 https://707.su/Izy
 #EXTINF:-1 group-title="Детские", Nicktoons
 https://707.su/PGm 
-#EXTINF:-1 group-title="Детские", Кнопка ТВ 
+#EXTINF:-1 group-title="Детские", Кнопка ТВ(1)
 https://707.su/iFl
+#EXTINF:-1 group-title="Детские", Кнопка ТВ(2)
+https://707.su/TLf
+
 #EXTINF:-1 group-title="Детские", ПлюсПлюс ua
 https://707.su/lOl
 #EXTINF:-1 group-title="Детские", Пiксель HD ua
